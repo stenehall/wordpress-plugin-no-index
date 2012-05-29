@@ -1,7 +1,7 @@
 wordpress-plugin-no-index
 =========================
 
-As a response to [Nikkelins](http://www.lindqvist.com/) article [SEO-functions all WordPress
+As a response to [Nikkelin's](http://www.lindqvist.com/) article [SEO-functions all WordPress
 developers should build into their themes (article in Swedish)](http://www.lindqvist.com/10-seo-krav-wordpress/) I
 wrote this tiny plugin.
 
@@ -21,4 +21,4 @@ The nagging
 -----------
 
 A clearly visible red “No Index” will show on every page containing the
-noindex. But it wont show up when in admin.
+noindex. But it won't show up when in admin.
